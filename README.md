@@ -1,0 +1,2 @@
+# gobinary
+go binary
